@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!  
 
-I’m passionate about **Business System Analyst**, **Data Analytics**, and **Software Developer** — blending technology and creativity to build something impactful.
+I’m passionate about **Business System Analyst-HR and IT**, **Data Analytics**, and **Software Developer** — blending technology and creativity to build something impactful.
 
 ## 🌐 Socials
 

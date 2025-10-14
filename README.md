@@ -18,3 +18,5 @@ I’m passionate about **IT PM OR Business System Analyst**, **Data Analytics**,
 **Web:** HTML5, CSS3, React.js, Next.js
 **Database :** MySQL · Microsoft SQL Server · MongoDB 
 **Visualization & BI:** Power BI, MicroSoft Excel  
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)

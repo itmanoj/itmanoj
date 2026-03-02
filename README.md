@@ -15,7 +15,7 @@ I’m passionate about **People Analytics and Workforce Analytics**, **Data Anal
 
 ## 💻 Tech Stack
 **Programming & Data:** Python, SQL, Pandas, JavaScript
-**Cloud:** Azure Portal, Azure Cloud
+**Cloud:** Azure Portal, Azure Cloud, Microsoft Fabric Data Engineer, Fabric Pipeline, OneLake, LakeHouse
 **Web:** HTML5, CSS3, React.js, Next.js
 **Database :** PostgreSQL, Microsoft SQL Server · MongoDB 
 **Visualization & BI:** Power BI, MicroSoft Excel  

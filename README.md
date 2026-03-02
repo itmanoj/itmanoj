@@ -27,7 +27,8 @@ I’m passionate about **People Analytics and Workforce Analytics**, **Data Anal
 ![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-E8720A?logo=databricks&logoColor=white&style=for-the-badge)
 ![Azure Data Lake](https://img.shields.io/badge/Azure%20Data%20Lake-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge) 
+https://img.shields.io/badge/Microsoft%20Fabric-Data%20Engineer-5E5ADB?logo=microsoft&logoColor=white&style=for-the-badge 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)

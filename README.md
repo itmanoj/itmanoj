@@ -1,20 +1,18 @@
 # 👋 Hi there, I'm Manoj Kumar!
 
 Welcome to my GitHub profile!  
- looking job for Microsoft Fabric Data Engineer/Azure Data Engineer Position 
+ looking job for Azure Data Engineer/Microsoft Fabric Data Engineer Position 
 ## 💼 About Me
 
-- 🔹 People Analytics professional with 6+ years of experience in Recruitment data analysis. Skilled in SQL, Power BI, Python and advanced Excel, I transform HR data into actionable insights that drive strategic workforce decisions.
-- I am looking job for Azure Data Engineer
-- 🔹 3 years as **Freelance Software Developer** — building responsive websites and UI layouts using **JavaScript, HTML, CSS, React.js**.  
+- 🔹 People Analytics professional with 6+ years of experience in Recruitment data analysis. Skilled in Pandas, SQL, Power BI, Python and advanced Excel, I transform HR data into actionable insights that drive strategic workforce decisions.
+- I am looking job for Azure Data Engineer 
 - 🔹 Strong interest in **Azure Data Engineer**, **Azure Data Factory**, and **Azure DataBricks** and ADLS and Data Pipeline.
-I’m passionate about **People Analytics and Workforce Analytics**, **Data Analytics** — blending technology and creativity to build something impactful.
 
 ## 🌐 Socials
 
 ## 💻 Tech Stack
 **Programming & Data:** Python, SQL, Pandas, JavaScript
-**Cloud:** Azure Portal, Azure Cloud, Microsoft Fabric Data Engineer, Fabric Pipeline, OneLake, LakeHouse
+**Cloud:** Azure Portal, Azure Cloud, ADF, ADLS Gen2, Azure Databricks, PySpark, Microsoft Fabric Data Engineer, Fabric Pipeline, OneLake, LakeHouse
 **Web:** HTML5, CSS3, React.js, Next.js
 **Database :** PostgreSQL, Microsoft SQL Server · MongoDB 
 **Visualization & BI:** Power BI, MicroSoft Excel  

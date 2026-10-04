@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
  looking job for Azure Data Engineer/Azure AI Engineer/Microsoft Fabric Data Engineer Position 
 ## 💼 About Me
 
-- 🔹 People Analytics professional with 6+ years of experience in Recruitment data analysis. Skilled in Azure Portal, PySpark, Pandas, SQL, Power BI, Python and advanced Excel, I transform HR data into actionable insights that drive strategic workforce decisions.
+- 🔹 People Analytics professional with 6+ years of experience in Recruitment data analysis. Skilled in Azure Cloud, PySpark, Pandas, SQL, Power BI, Python and advanced Excel, I transform HR data into actionable insights that drive strategic workforce decisions.
 - I am looking job for Azure Data Engineer/Azure AI Engineer/Azure ML
 - 🔹 Strong interest in **Azure Data Engineer**, **Azure Data Factory**, and **Azure DataBricks** and ADLS and Data Pipeline.
 
